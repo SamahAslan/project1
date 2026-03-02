@@ -2,3 +2,7 @@ this is the first version of my project
 this is the first branch of my project
 second test
 
+I am learning git step by step. Today I practiced resolving merge conflicts and adding new paragraphs to a text file.
+
+Today I am learning how to save my work and push updates to github.
+
